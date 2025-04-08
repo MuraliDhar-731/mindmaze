@@ -1,0 +1,4 @@
+size,wall_count,path_length,difficulty
+5,10,12,easy
+5,15,18,medium
+5,20,25,hard
